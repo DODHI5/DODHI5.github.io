@@ -2973,7 +2973,6 @@ button:disabled,
 }
 
 #footer footer .copyright {
-  color: orange;
   font-size: 0.8em;
   line-height: 1em;
   padding: 0;
@@ -2990,6 +2989,10 @@ button:disabled,
   border-left: 0;
   margin-left: 0;
   padding-left: 0;
+}
+
+.copyright{
+  color: orange;
 }
 
 /* Large */
