@@ -1454,7 +1454,7 @@ body {
 html {
   background-color: #313a3d;
   background-attachment: fixed, fixed;
-  background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+  background-image: url("images/overlay.png"), url("../../images/bg.png");
   background-position: top left, center center;
   background-repeat: repeat, none;
   background-size: auto, cover;
@@ -2973,6 +2973,7 @@ button:disabled,
 }
 
 #footer footer .copyright {
+  color: orange;
   font-size: 0.8em;
   line-height: 1em;
   padding: 0;
